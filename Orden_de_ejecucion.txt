@@ -1,0 +1,11 @@
+1. configuracion
+2. generar_tablas
+3. ingresar_provincias
+4. ingresar_cantones
+5. ingresar_parroquias
+6. ingresar_instituciones
+7. consulta1
+8. consulta2
+9. consulta3
+10. consulta4
+11. consulta5
